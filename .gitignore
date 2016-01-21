@@ -1,10 +1,10 @@
-node_modules
-temp
-.tmp
-dist
+.idea
 .sass-cache
+.tmp
 app/bower_components
-test/bower_components
-package
 app/scripts
-
+dist
+node_modules
+package
+temp
+test/bower_components
